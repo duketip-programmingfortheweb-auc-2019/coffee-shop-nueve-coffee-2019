@@ -84,3 +84,10 @@ p.about {
 .backbrown {
     background-color: #735505
 }
+
+.nav-font {
+    color:white;
+    font-size: 2rem;
+    font-family: 'Times New Roman';
+    padding-left: 5%;
+}
